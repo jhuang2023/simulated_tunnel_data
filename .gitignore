@@ -1,2 +1,5 @@
 # ignore csv file
 .csv
+
+# ignore folder
+D:\GAN_simulated_data\simulated_tunnel_data\reference\
